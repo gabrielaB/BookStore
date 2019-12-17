@@ -1,0 +1,1 @@
+export const ADVANCED_SEARCH = 'ADVANCED_SEARCH';
